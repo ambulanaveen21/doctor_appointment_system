@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  slot_time: MyString
+  datetime,: MyString
+  doctor_id: 
+  patient_id: 1
+
+two:
+  slot_time: MyString
+  datetime,: MyString
+  doctor_id: 
+  patient_id: 1
